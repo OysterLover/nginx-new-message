@@ -1,0 +1,2 @@
+Создание образа: docker build -t some-nginx .
+Запуск образа: docker run -d -p 8000:80 some-nginx
